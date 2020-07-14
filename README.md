@@ -47,10 +47,10 @@ Here the python program is using the random photo from the test folder for testi
 
 # OUTPUT:-
  # SRI DEVI
-![Screenshot (309).png…]()
-![Screenshot (305).png…]()
-![ Screenshot (301).png…]()
-
-
+ # RISHI KAPOOR
+ # IRFAN KHAN 
+ # SUSHANT SINGH RAJPUT
+# AUTHOR
+ SHYAMNEDRA PRATAN SINGH SENGAR
 
 
